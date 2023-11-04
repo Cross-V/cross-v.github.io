@@ -4,7 +4,13 @@ A comprehensive solution for convenient and efficient work with clipboard, image
 
 ## Getting Started
 
-### 1. Setup your webdav server
+
+
+### Install app    
+
+    [Release](https://github.com/Cross-V/cross-v.github.io/releases)
+
+### (Optional) Setup your webdav server
 
 - Webdav Cloud:
 
@@ -17,10 +23,6 @@ A comprehensive solution for convenient and efficient work with clipboard, image
     1. [Alist](https://alist.nn.ci)
     2. [Docker](https://hub.docker.com/r/bytemark/webdav)
     3. [GoWebDAV](https://github.com/117503445/GoWebDAV)
-
-### 2. Install app    
-
-    [Release](https://github.com/Cross-V/cross-v.github.io/releases)
 
 ## Key features
 
